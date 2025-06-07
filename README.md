@@ -4,38 +4,6 @@
 </div>
 
 
-<!-- 🎯 Profile Stats Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/📊_Contributions-298-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/📚_Repositories-45-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repositories"/>
-</div>
-
-<br>
-
-<!-- 🔗 Social Links -->
-<div align="center">
-  <a href="https://github.com/NekoMirra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/NekoMirra">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://ac-wiki.org">
-    <img src="https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:NekoMirra@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br>
-
-<!-- 📊 Visitor Counter & Stats -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NekoMirra&style=for-the-badge&color=7C3AED&label=Profile+Views&labelColor=1a1b27" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/NekoMirra?style=for-the-badge&color=00D4AA&labelColor=1a1b27&logo=github&logoColor=white&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Account_Age-5_Years-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1b27" alt="Account Age"/>
-</div>
 
 <!-- 🎭 About Me Section -->
 <div align="center">
@@ -43,43 +11,72 @@
     <tr>
       <td align="center" width="40%">
         <img src="https://github.com/NekoMirra.png" width="200" style="border-radius: 50%; border: 4px solid #2F81F7;"/>
+        <br><br>
+        <!-- 🔗 Social Links (Icons Only) -->
+        <a href="https://github.com/NekoMirra">
+          <img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <a href="https://x.com/NekoMirra">
+          <img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter"/>
+        </a>
+        <a href="https://t.me/NekoMirra">
+          <img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+        </a>
+        <br>
+        <a href="https://mirradev.eu.org">
+          <img src="https://img.shields.io/badge/-FF6B35?style=flat&logo=firefox&logoColor=white" alt="Website"/>
+        </a>
+        <a href="mailto:NekoMirra@outlook.com">
+          <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
       </td>
       <td align="left" width="60%">
         <h2>🚀 About NekoMirra</h2>
         <p>🎯 <strong>Full-Stack Developer</strong> & Open Source Enthusiast</p>
         <p>💭 <em>"你体验世界的深度，我感受世界的广度"</em></p>
         <p>🎉 <strong>Mirra欢迎您~</strong></p>
-      </td>
-    </tr>
+
+
+
+
+
   </table>
 </div>
 
 <!-- 💻 Tech Stack with Animated Icons -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=💻+Tech+Stack&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+  <h2>💻 Tech Stack</h2>
 </div>
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" width="14.28%">
+        <h3>📝 Languages</h3>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,r" alt="Programming Languages"/>
+      </td>
+      <td align="center" width="14.28%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" alt="Frontend"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="14.28%">
         <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=python,nodejs,java,php,go" alt="Backend"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,java,php,go,django" alt="Backend"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="14.28%">
         <h3>🛠️ Tools</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,docker,kubernetes,arduino,vim" alt="Tools"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="14.28%">
+        <h3>💻 OS</h3>
+        <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch" alt="Operating Systems"/>
+      </td>
+      <td align="center" width="14.28%">
         <h3>☁️ Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,firebase,mongodb" alt="Cloud"/>
+        <img src="https://skillicons.dev/icons?i=cloudflare,aws,vercel,azure,firebase,mongodb" alt="Cloud"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="14.28%">
         <h3>🎨 Creative</h3>
-        <img src="https://skillicons.dev/icons?i=blender,photoshop,aftereffects,premiere" alt="Creative"/>
+        <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,aftereffects,premiere,notion" alt="Creative"/>
       </td>
     </tr>
   </table>
@@ -111,9 +108,32 @@
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1b27" alt="Metasploit"/>
 </div>
 
+<!-- 🏆 Personal Achievement Badges -->
+<div align="center">
+  <h2>🏆 Personal Achievements</h2>
+  <h3>📊 GitHub Overview & Achievements</h3>
+
+  <!-- Core Achievements -->
+  <p>
+    <img src="https://img.shields.io/badge/⭐_Total_Stars-706+-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1b27" alt="Total Stars"/>
+  </p>
+
+  <!-- Activity Metrics -->
+  <p>
+    <img src="https://img.shields.io/badge/📊_Contributions-298-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Contributions"/>
+    <img src="https://img.shields.io/badge/📚_Repositories-45-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repositories"/>
+  </p>
+
+  <!-- Community Impact -->
+  <p>
+    <img src="https://img.shields.io/badge/📅_Experience-5_Years-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1b27" alt="Experience"/>
+    <img src="https://komarev.com/ghpvc/?username=NekoMirra&style=for-the-badge&color=7C3AED&label=Profile+Views&labelColor=1a1b27" alt="Profile Views"/>
+  </p>
+</div>
+
 <!-- 📊 GitHub Statistics Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=📊+GitHub+Analytics&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+  <h2>📊 GitHub Analytics</h2>
 </div>
 
 <!-- 🔥 GitHub Streak Stats -->
@@ -147,7 +167,7 @@
 
 <!-- 🏢 Featured Organization & Projects -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=🏢+Featured+Organization&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+  <h2>🏢 Featured Organization</h2>
 </div>
 
 <div align="center">
@@ -173,9 +193,7 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-Wiki&repo=Ac-Wiki&theme=tokyonight&hide_border=true&border_radius=10" alt="Ac-Wiki Project"/>
-</div>
+
 
 <!-- 🎨 Footer -->
 <div align="center">
