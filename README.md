@@ -50,35 +50,40 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="14.28%">
+      <td align="center" width="25%">
         <h3>📝 Languages</h3>
         <img src="https://skillicons.dev/icons?i=c,cpp,python,r" alt="Programming Languages"/>
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="25%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" alt="Frontend"/>
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="25%">
         <h3>⚙️ Backend</h3>
         <img src="https://skillicons.dev/icons?i=nodejs,java,php,go,django" alt="Backend"/>
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="25%">
         <h3>🛠️ Tools</h3>
         <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,docker,kubernetes,arduino,vim" alt="Tools"/>
       </td>
-      <td align="center" width="14.28%">
+    </tr>
+    <tr>
+      <td align="center" width="25%">
         <h3>💻 OS</h3>
         <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch" alt="Operating Systems"/>
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="25%">
         <h3>☁️ Cloud</h3>
         <img src="https://skillicons.dev/icons?i=cloudflare,aws,vercel,azure,firebase,mongodb" alt="Cloud"/>
       </td>
-      <td align="center" width="14.28%">
+      <td align="center" width="25%">
         <h3>🎨 Creative</h3>
         <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,aftereffects,premiere,notion" alt="Creative"/>
       </td>
-    </tr>
+      <td align="center" width="25%">
+        <h3>🔍 Security</h3>
+        <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,vim" alt="Security Tools"/>
+
   </table>
 </div>
 <div align="center">
@@ -97,21 +102,15 @@
 
 <!-- 🔍 Reverse Engineering & Security Tools -->
 <div align="center">
-  <h3>🔍 Reverse Engineering & Security</h3>
-  <img src="https://img.shields.io/badge/Fiddler_CE-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="Fiddler"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1b27" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="IDA Pro"/>
-  <br>
-  <img src="https://img.shields.io/badge/x64dbg-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="x64dbg"/>
-  <img src="https://img.shields.io/badge/Cheat_Engine-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="Cheat Engine"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1b27" alt="Metasploit"/>
-</div>
 
 <!-- 🏆 Personal Achievement Badges -->
 <div align="center">
   <h2>🏆 Personal Achievements</h2>
   <h3>📊 GitHub Overview & Achievements</h3>
+
+  <!-- Core Achievements -->
+
+
 
   <!-- Activity Metrics -->
   <p>
