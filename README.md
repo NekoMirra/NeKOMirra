@@ -47,8 +47,6 @@
       <td align="left" width="60%">
         <h2>🚀 About NekoMirra</h2>
         <p>🎯 <strong>Full-Stack Developer</strong> & Open Source Enthusiast</p>
-        <p>🌟 Founder of <strong>Ac-Wiki Organization</strong></p>
-        <p>📍 Location: <strong>中华人民共和国 统战部</strong></p>
         <p>💭 <em>"你体验世界的深度，我感受世界的广度"</em></p>
         <p>🎉 <strong>Mirra欢迎您~</strong></p>
       </td>
