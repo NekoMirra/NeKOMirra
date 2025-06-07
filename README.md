@@ -113,11 +113,6 @@
   <h2>🏆 Personal Achievements</h2>
   <h3>📊 GitHub Overview & Achievements</h3>
 
-  <!-- Core Achievements -->
-  <p>
-    <img src="https://img.shields.io/badge/⭐_Total_Stars-706+-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1b27" alt="Total Stars"/>
-  </p>
-
   <!-- Activity Metrics -->
   <p>
     <img src="https://img.shields.io/badge/📊_Contributions-298-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Contributions"/>
